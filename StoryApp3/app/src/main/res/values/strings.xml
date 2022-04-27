@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title">Android Intermediate</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="logout">Logout</string>
+    <string name="email_warning">Please input a proper email</string>
+    <string name="password_warning">Password must have at least 6 characters</string>
+    <string name="name_warning">Name can\'t be empty</string>
+    <string name="register_success">Register success</string>
+    <string name="register_failed">Register failed</string>
+    <string name="login_success">Login success</string>
+    <string name="login_failed">Login failed</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="upload_success">Upload success</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="failed_picture">Failed to take picture</string>
+    <string name="failed_camera">Failed to show camera</string>
+    <string name="sub_title">Submission 1: Story App</string>
+    <string name="detail_picture">detail picture</string>
+    <string name="cardview_image">cardview image</string>
+    <string name="fab">fab</string>
+    <string name="upload_image">upload image</string>
+    <string name="story_maps">Story Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">retry</string>
+    <string name="message">It seems like there is a problem, press the button</string>
+</resources>

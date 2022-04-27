@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.example.myapplication.view.DetailStoryActivity">
+
+    <ImageView
+        android:id="@+id/photoDetail"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/ic_baseline_image_24"
+        android:layout_marginBottom="16dp"
+        android:transitionName="storyPhoto"
+        app:layout_constraintBottom_toTopOf="@+id/nameDetail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/detail_picture" />
+
+    <TextView
+        android:id="@+id/nameDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        tools:text="TextView"
+        android:textSize="32sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/futura_book_font"
+        android:textStyle="bold"
+        android:transitionName="storyName"
+        app:layout_constraintBottom_toTopOf="@+id/descDetail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/descDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="140dp"
+        android:fontFamily="@font/futura_book_font"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:transitionName="storyDesc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="TextView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

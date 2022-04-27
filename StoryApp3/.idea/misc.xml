@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pradi/AndroidStudioProjects/StoryApp3/app/src/main/res/layout/activity_camera.xml" value="0.1765625" />
+        <entry key="..\:/Users/pradi/AndroidStudioProjects/StoryApp3/app/src/main/res/layout/activity_detail_story.xml" value="0.33" />
+        <entry key="..\:/Users/pradi/AndroidStudioProjects/StoryApp3/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/pradi/AndroidStudioProjects/StoryApp3/app/src/main/res/layout/activity_register.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/pradi/AndroidStudioProjects/StoryApp3/app/src/main/res/layout/activity_story.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/pradi/AndroidStudioProjects/StoryApp3/app/src/main/res/layout/item_loading.xml" value="0.5" />
+        <entry key="..\:/Users/pradi/AndroidStudioProjects/StoryApp3/app/src/main/res/layout/item_note.xml" value="0.33" />
+        <entry key="..\:/Users/pradi/AndroidStudioProjects/StoryApp3/app/src/main/res/menu/option_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
